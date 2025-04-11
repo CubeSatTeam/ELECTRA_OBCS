@@ -1,0 +1,3 @@
+[submodule "CAN_comm/CUBEIDE"]
+	path = CAN_comm/CUBEIDE
+	url = https://github.com/CubeSatTeam/CubeIDE.git
